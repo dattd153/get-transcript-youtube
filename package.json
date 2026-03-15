@@ -1,0 +1,19 @@
+{
+  "name": "get-transcript",
+  "version": "1.0.0",
+  "main": "index.cjs",
+  "scripts": {
+    "start": "node index.cjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "yt-caption-kit": "^1.0.0",
+    "zod": "^4.3.6"
+  }
+}
